@@ -1,0 +1,5 @@
+interface:
+  display_name: "跃历简历写作"
+  short_description: "把零散经历重写成高匹配的一页 A4 简历"
+  brand_color: "#202020"
+  default_prompt: "Use $yueli-resume-writer to turn my raw experiences and target role into a dense, fact-first, one-page A4 resume."
